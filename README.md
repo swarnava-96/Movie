@@ -1,11 +1,16 @@
 # Movie-Recommender-with-Sentiment
 
+A Content Based Recommender System that recommends movies similar to the movie user likes and analyses the sentiments on the reviews given by other users for that movie.
+
 ## Datasets-
-https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
-https://www.kaggle.com/rounakbanik/the-movies-dataset
-https://en.wikipedia.org/wiki/List_of_American_films_of_2018
-https://en.wikipedia.org/wiki/List_of_American_films_of_2019
-https://en.wikipedia.org/wiki/List_of_American_films_of_2020
+1. https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
+2. https://www.kaggle.com/rounakbanik/the-movies-dataset
+3. https://en.wikipedia.org/wiki/List_of_American_films_of_2018
+4. https://en.wikipedia.org/wiki/List_of_American_films_of_2019
+5. https://en.wikipedia.org/wiki/List_of_American_films_of_2020
+
+I am also providing my Google Drive link which have all the datasets that are used in this project.
+Google Drive- 
 
 ## Installation
 The Code is written in Python 3.7.3 If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
