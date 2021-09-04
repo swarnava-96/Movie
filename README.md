@@ -39,7 +39,7 @@ python app.py
 Login or signup in order to create virtual app. You can access the free tier. For application deployment you have to install Putty,Puttygen and WinSCP.
 
 
-## Frontend Using HTML and CSS and Backend using Flask
+## Frontend Using AJAX, HTML and CSS and Backend using Flask
 
 
 http://ec2-3-23-64-155.us-east-2.compute.amazonaws.com:8080/
