@@ -1,6 +1,6 @@
 # Movie-Recommender-with-Sentiment
 
-A Content Based Recommender System that recommends movies similar to the movie user likes and analyses the sentiments on the reviews given by other users for that movie.
+A Content Based Recommender System that recommends Hollywood movies similar to the movie user likes and analyses the sentiments on the reviews given by other users for that movie.
 
 ## Datasets-
 1. https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
