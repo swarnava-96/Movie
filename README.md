@@ -14,11 +14,6 @@ The code is present in the NLP file.
 3. https://en.wikipedia.org/wiki/List_of_American_films_of_2018
 4. https://en.wikipedia.org/wiki/List_of_American_films_of_2019
 5. https://en.wikipedia.org/wiki/List_of_American_films_of_2020
-
-Application is currently stopped as it is chargeable. If you want see the application, contact me I will start it again.
-![Screenshot (134)](https://user-images.githubusercontent.com/75041273/132087940-c093fd27-5334-4c23-9f11-4602d6e91d84.png)
-
-
 I am also providing my Google Drive link which have all the datasets that are used in this project.
 Google Drive- https://drive.google.com/drive/folders/1lLYRljaQww_19vsAloxH9b4zA_jxKRt9?usp=sharing
 
@@ -60,6 +55,9 @@ http://ec2-3-23-64-155.us-east-2.compute.amazonaws.com:8080/
 ![Screenshot (129)](https://user-images.githubusercontent.com/75041273/132076058-447a37df-84ac-4eb5-8b90-8e82a0edc5ef.png)
 ![Screenshot (130)](https://user-images.githubusercontent.com/75041273/132076071-5e4f3bb6-bda0-44e4-aaf3-493f114312bf.png)
 ![Screenshot (131)](https://user-images.githubusercontent.com/75041273/132076092-29f8b02a-7dc3-46d7-8aed-0e393c18877c.png)
+
+Application is currently stopped as it is chargeable. If you want see the application, contact me I will start it again.
+![Screenshot (134)](https://user-images.githubusercontent.com/75041273/132087940-c093fd27-5334-4c23-9f11-4602d6e91d84.png)
 
 ## Further Changes to be Done
 - [ ] Including movies from other industries as well like Bollywood, Tollywood, etc
