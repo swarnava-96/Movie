@@ -57,11 +57,6 @@ http://ec2-3-23-64-155.us-east-2.compute.amazonaws.com:8080/
 ![Screenshot (130)](https://user-images.githubusercontent.com/75041273/132076071-5e4f3bb6-bda0-44e4-aaf3-493f114312bf.png)
 ![Screenshot (131)](https://user-images.githubusercontent.com/75041273/132076092-29f8b02a-7dc3-46d7-8aed-0e393c18877c.png)
 
-## Technology Stack
-
-
-
-
 ## Further Changes to be Done
 - [ ] Including movies from other industries as well like Bollywood, Tollywood, etc
 - [ ] Deploying the Web Application on Cloud.
@@ -69,3 +64,6 @@ http://ec2-3-23-64-155.us-east-2.compute.amazonaws.com:8080/
      - [ ] Azure
      - [ ] Heroku
      
+## Technology Stack
+```
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /> ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) <img src="https://img.shields.io/badge/matplotlib-342B029.svg?&style=for-the-badge&logo=matplotlib&logoColor=white"/>
