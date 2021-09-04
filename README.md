@@ -63,7 +63,7 @@ http://ec2-3-23-64-155.us-east-2.compute.amazonaws.com:8080/
 
 
 ## Further Changes to be Done
-- Including movies from other industries as well like Bollywood, Tollywood, etc
+- [ ] Including movies from other industries as well like Bollywood, Tollywood, etc
 - [ ] Deploying the Web Application on Cloud.
      - [ ] Google Cloud 
      - [ ] Azure
