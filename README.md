@@ -56,3 +56,16 @@ http://ec2-3-23-64-155.us-east-2.compute.amazonaws.com:8080/
 ![Screenshot (129)](https://user-images.githubusercontent.com/75041273/132076058-447a37df-84ac-4eb5-8b90-8e82a0edc5ef.png)
 ![Screenshot (130)](https://user-images.githubusercontent.com/75041273/132076071-5e4f3bb6-bda0-44e4-aaf3-493f114312bf.png)
 ![Screenshot (131)](https://user-images.githubusercontent.com/75041273/132076092-29f8b02a-7dc3-46d7-8aed-0e393c18877c.png)
+
+## Technology Stack
+
+
+
+
+## Further Changes to be Done
+- Including movies from other industries as well like Bollywood, Tollywood, etc
+- [ ] Deploying the Web Application on Cloud.
+     - [ ] Google Cloud 
+     - [ ] Azure
+     - [ ] Heroku
+     
