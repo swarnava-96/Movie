@@ -15,6 +15,10 @@ The code is present in the NLP file.
 4. https://en.wikipedia.org/wiki/List_of_American_films_of_2019
 5. https://en.wikipedia.org/wiki/List_of_American_films_of_2020
 
+Application is currently stopped as it is chargeable. If you want see the application, contact me I will start it again.
+![Screenshot (134)](https://user-images.githubusercontent.com/75041273/132087940-c093fd27-5334-4c23-9f11-4602d6e91d84.png)
+
+
 I am also providing my Google Drive link which have all the datasets that are used in this project.
 Google Drive- https://drive.google.com/drive/folders/1lLYRljaQww_19vsAloxH9b4zA_jxKRt9?usp=sharing
 
