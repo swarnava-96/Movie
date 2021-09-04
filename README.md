@@ -1,4 +1,4 @@
-# Movie-Recommender-with-Sentiment
+# Movie Recommender with Sentiment Analysis
 
 A Content Based Recommender System that recommends Hollywood movies similar to the movie user likes and analyses the sentiments on the reviews given by other users for that movie.
 For the Data preprocessing and gathering part, I have used Kaggle dataset and for the years 2018, 2019 and 2020 I have used wikipedia and tmdbv3api. All the codes are present in the preprocessing files. For the Recommendation part, I have used cosine similarity and similarity scores. 
